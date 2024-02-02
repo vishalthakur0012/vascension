@@ -1,0 +1,154 @@
+@media only screen and (max-width: 767px) {
+
+
+    .get-in-touch.mt-5 {
+        display: none;
+    }
+
+    .offcanvas-body {
+        display: block;
+    }
+
+    .dropdown {
+        display: block;
+    }
+
+    li.nav-item {
+        padding: 0 0px;
+    }
+
+    .carousel-item img {
+        height: 185px !important;
+        object-fit: cover;
+        object-position: right;
+    }
+
+    .about-description h2 {
+        font-size: 25px;
+    }
+
+    section.tf__student_choose {
+        background-position: left !important;
+    }
+
+    .tf__section_heading h2 {
+        font-size: 22px;
+    }
+
+    .tf__student_choose_text {
+        margin-bottom: 55px;
+    }
+
+    .col-sm-2.col-sm-6.counter-item {
+        width: 50%;
+        padding: 22px 0px !important;
+    }
+
+    section.breadcrumbs-area {
+        height: 140px;
+    }
+
+    .breadcrumbs h2 {
+        font-size: 30px;
+    }
+
+    .careers.details h1 {
+        font-size: 25px;
+    }
+
+    section.tf__student_choose.why-affnet-second .tf__student_choose_img .img_2 {
+        left: 230px;
+    }
+
+    section.tf__student_choose.why-affnet-second .tf__student_choose_img .img_1 {
+        margin-left: -8px;
+    }
+
+    section.tf__student_choose.why-affnet-second .tf__student_choose_img {
+        margin-bottom: 45px;
+    }
+
+    section.tf__student_choose.why-affnet-second {
+        padding-bottom: 20px;
+    }
+
+    .ft-contact-cta-items .ft-contact-cta-text {
+        max-width: 190px;
+    }
+
+
+    .tf__student_choose_img .img_1 img {
+        width: 250px;
+        height: 300px;
+    }
+    .tf__student_choose_img .img_2 {
+        width: 140px;
+        height: 150px;
+        bottom: -20px;
+        left: auto;
+    }
+
+    .tf__student_choose_img .img_2::after {
+        display: none;
+    }
+
+    .h--timeline-event-content {
+        max-width: 350px;
+    }
+
+
+    .carousel-caption h5 {
+        font-size: 9px;
+    }
+
+    .carousel-caption h1 {
+        font-size: 16px;
+    }
+
+    .carousel-caption {
+        top: 12%;
+        width: 43%;
+    }
+
+    .carousel-caption p {
+        font-size: 11px;
+    }
+
+    .carousel-caption.second-caption {
+        top: 12%;
+        width: 35%;
+    }
+
+    .carousel-caption.second-caption p {
+        font-size: 10px;
+    }
+
+    .h--timeline-line {
+        width: 340% !important;
+    }
+
+
+    .icon-set {
+        width: 50%;
+    }
+
+
+
+}
+
+@media only screen and (max-width:990px) and (min-width:769px) {
+    .icon-set {
+        width: 33%;
+    }
+
+
+
+
+
+
+
+
+
+
+    
+}
